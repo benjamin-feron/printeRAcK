@@ -1,0 +1,61 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/*
+ * Theme override
+ */
+header {
+  background: #49999e url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #1f9198;
+}
+
+header h2 {
+  color: #1c6469;
+}
+
+#main-content h1:before {
+  color: #1c6469;
+}
+
+#main-content h2:before {
+  color: #1c6469;
+}
+
+#main-content h3:before {
+  color: #1c6469;
+}
+
+h4:before {
+  color: #1c6469;
+}
+
+h5:before {
+  color: #1c6469;
+}
+
+h6:before {
+  color: #1c6469;
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  header a.button {
+    color: #16e8f7;
+    background-color: #1c6469;
+  }
+}
+
+/*
+ * Specific
+ */
+.img-group {
+  display: flex;
+  justify-content: space-around;
+  
+  a {
+    display: inline-block;
+    padding: 20px;
+  }
+}
