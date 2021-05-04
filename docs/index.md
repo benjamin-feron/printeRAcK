@@ -50,6 +50,14 @@ This mount was originally designed to set a [Microdelta Rework](https://www.repr
     <img src="assets/images/preview/Tampon%20v2.png" alt="Tampon">
   </a>
 </div>
+<div class="img-group">
+  <a href="assets/images/preview/Stabilisateur%20v41.png" _target="blank">
+    <img src="assets/images/preview/Stabilisateur%20v41.png" alt="Stabilisateur">
+  </a>
+  <a href="assets/images/preview/Stabilisateur%20v41b.png" _target="blank">
+    <img src="assets/images/preview/Stabilisateur%20v41b.png" alt="Stabilisateurb">
+  </a>
+</div>
 
 Available for download soon...
 
