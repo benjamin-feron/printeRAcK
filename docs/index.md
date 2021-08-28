@@ -4,6 +4,8 @@ Project page of a rack built with 3d printed parts.
 
 This mount was originally designed to set a [Microdelta Rework](https://www.reprap-france.com/produit/1234568619-imprimante-3d-microdelta-rework) ([3d model](https://sketchfab.com/3d-models/micro-delta-rework-by-emotion-tech-91a2beeb78f4422ebaeff0f6781fef17)) on a pole.
 
+[>> View project on Thingiverse <<](https://www.thingiverse.com/thing:4943958)
+
 ## Objective
 
 [![final assembly](assets/images/rendering/Assemblage%20final%20v125b.png)](assets/images/rendering/Assemblage%20final%20v125b.png)
@@ -69,28 +71,29 @@ Available for download soon...
   </a>
 </div>
 <div class="img-group">
-  <a href="assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" _target="blank">
-    <img src="assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" alt="Plaque de support cotée">
+  <a href="assets/images/preview/Board%20v26.png" _target="blank">
+    <img src="assets/images/preview/Board%20v26.png" alt="Board with dimensions">
   </a>
 </div>
 
 ## Hardware
 
-| Part                  |                                                                                            | Qty |
-|:----------------------|:------------------------------------------------------------------------------------------:|:---:|
-| Threaded shaft M8x820 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
-| Threaded shaft M8x525 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
-| Threaded shaft M8x500 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 8   |
-| Threaded shaft M8x320 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
-| Threaded shaft M8x125 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
-| Screw M6x25           | <img src="assets/images/hardware/screw_6x25.jpg"      alt="Screw 6x25"      width="150px"> | 8   |
-| Screw hex head M8x50  | <img src="assets/images/hardware/screw_hex_8x50.jpg"  alt="Screw hex 8x50"  width="150px"> | 1   |
-| Washer M8             | <img src="assets/images/hardware/washer_8.webp"       alt="Washer 8"        width="100px"> | 69  |
-| Washer M6             | <img src="assets/images/hardware/washer_6.jpg"        alt="Washer 6"        width="100px"> | 8   |
-| Washer spring M8      | <img src="assets/images/hardware/washer_spring_8.png" alt="Washer spring 8" width="100px"> | 43  |
-| Nut M8                | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 71  |
-| Nut M6                | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 8   |
-| Wing nut M8           | <img src="assets/images/hardware/wing_nut_8.jpg"      alt="Wing nut 8"      width="100px"> | 1   |
+| Part                   |                                                                                            | Qty |
+|:-----------------------|:------------------------------------------------------------------------------------------:|:---:|
+| Threaded shaft M8x1000 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
+| Threaded shaft M8x555  | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
+| Threaded shaft M8x500  | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 8   |
+| Threaded shaft M8x400  | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
+| Threaded shaft M8x300  | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
+| Threaded shaft M8x120  | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
+| Screw M6x25            | <img src="assets/images/hardware/screw_6x25.jpg"      alt="Screw 6x25"      width="150px"> | 8   |
+| Screw hex head M8x50   | <img src="assets/images/hardware/screw_hex_8x50.jpg"  alt="Screw hex 8x50"  width="150px"> | 1   |
+| Washer M8              | <img src="assets/images/hardware/washer_8.webp"       alt="Washer 8"        width="100px"> | 69  |
+| Washer M6              | <img src="assets/images/hardware/washer_6.jpg"        alt="Washer 6"        width="100px"> | 8   |
+| Washer spring M8       | <img src="assets/images/hardware/washer_spring_8.png" alt="Washer spring 8" width="100px"> | 43  |
+| Nut M8                 | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 71  |
+| Nut M6                 | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 8   |
+| Wing nut M8            | <img src="assets/images/hardware/wing_nut_8.jpg"      alt="Wing nut 8"      width="100px"> | 1   |
 
 
 ## Design details
