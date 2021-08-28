@@ -1,0 +1,8 @@
+name: update-readme
+on: [push]
+jobs:
+  copy-readme-from-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: cp docs/index.md README.md
