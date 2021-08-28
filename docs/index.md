@@ -132,4 +132,8 @@ Available for download soon...
 
 ## Building irl
 
-[![Building in progress...](assets/images/photos/IMG_20210828_160653.jpg)](assets/images/photos/IMG_20210828_160653.jpg)
+[![Building irl](assets/images/photos/IMG_20210828_160653.jpg)](assets/images/photos/IMG_20210828_160653.jpg)
+[![Building irl](assets/images/photos/IMG_20210825_162620.jpg)](assets/images/photos/IMG_20210825_162620.jpg)
+[![Building irl](assets/images/photos/IMG_20210828_162214.jpg)](assets/images/photos/IMG_20210828_162214.jpg)
+[![Building irl](assets/images/photos/IMG_20210828_161848.jpg)](assets/images/photos/IMG_20210828_161848.jpg)
+[![Building irl](assets/images/photos/IMG_20210828_161903.jpg)](assets/images/photos/IMG_20210828_161903.jpg)
