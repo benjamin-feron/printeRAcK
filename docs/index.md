@@ -10,6 +10,8 @@ This mount was originally designed to set a [Microdelta Rework](https://www.repr
 
 ## 3d printed parts
 
+Available for download soon...
+
 <div class="img-group">
   <a href="assets/images/preview/Jointure%20de%20tiges%20A%20v16.png" _target="blank">
     <img src="assets/images/preview/Jointure%20de%20tiges%20A%20v16.png" alt="Jointure de tige A">
@@ -59,7 +61,18 @@ This mount was originally designed to set a [Microdelta Rework](https://www.repr
   </a>
 </div>
 
-Available for download soon...
+## Wood parts
+
+<div class="img-group">
+  <a href="assets/images/preview/Plaque%20de%20support%20v19.png" _target="blank">
+    <img src="assets/images/preview/Plaque%20de%20support%20v19.png" alt="Plaque de support">
+  </a>
+</div>
+<div class="img-group">
+  <a href="assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" _target="blank">
+    <img src="assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" alt="Plaque de support cotée">
+  </a>
+</div>
 
 ## Hardware
 
@@ -71,11 +84,13 @@ Available for download soon...
 | Threaded shaft M8x320 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
 | Threaded shaft M8x125 | <img src="assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
 | Screw M6x25           | <img src="assets/images/hardware/screw_6x25.jpg"      alt="Screw 6x25"      width="150px"> | 8   |
+| Screw hex head M8x50  | <img src="assets/images/hardware/screw_hex_8x50.jpg"  alt="Screw hex 8x50"  width="150px"> | 1   |
 | Washer M8             | <img src="assets/images/hardware/washer_8.webp"       alt="Washer 8"        width="100px"> | 69  |
 | Washer M6             | <img src="assets/images/hardware/washer_6.jpg"        alt="Washer 6"        width="100px"> | 8   |
 | Washer spring M8      | <img src="assets/images/hardware/washer_spring_8.png" alt="Washer spring 8" width="100px"> | 43  |
-| Nut M8                | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 70  |
+| Nut M8                | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 71  |
 | Nut M6                | <img src="assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 8   |
+| Wing nut M8           | <img src="assets/images/hardware/wing_nut_8.jpg"      alt="Wing nut 8"      width="100px"> | 1   |
 
 
 ## Design details
@@ -94,6 +109,27 @@ Available for download soon...
 [![detail 09](assets/images/rendering/Assemblage%20final%20v117f.png)](assets/images/rendering/Assemblage%20final%20v117f.png)
 [![detail 10](assets/images/rendering/Assemblage%20final%20v117g.png)](assets/images/rendering/Assemblage%20final%20v117g.png)
 
-## Building irl (in progress...)
+## Accessories
+
+### Smartphone dock
+
+<div class="img-group">
+  <a href="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%202.png" _target="blank">
+    <img src="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%202.png" alt="Support pour smartphone - mord 2">
+  </a>
+  <a href="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%201.png" _target="blank">
+    <img src="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%201.png" alt="Support pour smartphone - mord 1">
+  </a>
+  <a href="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20sabot.png" _target="blank">
+    <img src="assets/images/preview/Support%20pour%20smartphone%20v20%20-%20sabot.png" alt="Support pour smartphone - sabot">
+  </a>
+</div>
+
+| Part        |                                                                                    | Qty |
+|:------------|:----------------------------------------------------------------------------------:|:---:|
+| Screw M3x10 | <img src="assets/images/hardware/screw_3x10.png"  alt="Screw 3x10"  width="150px"> | 4   |
+| Spring 6x20 | <img src="assets/images/hardware/spring_6x20.png" alt="Spring 6x20" width="150px"> | 2   |
+
+## Building irl
 
 [![Building in progress...](assets/images/photos/IMG_20210425_172705.jpg)](assets/images/photos/IMG_20210425_172705.jpg)
