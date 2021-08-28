@@ -10,6 +10,8 @@ This mount was originally designed to set a [Microdelta Rework](https://www.repr
 
 ## 3d printed parts
 
+Available for download soon...
+
 <div class="img-group">
   <a href="docs/assets/images/preview/Jointure%20de%20tiges%20A%20v16.png" _target="blank">
     <img src="docs/assets/images/preview/Jointure%20de%20tiges%20A%20v16.png" alt="Jointure de tige A">
@@ -50,8 +52,27 @@ This mount was originally designed to set a [Microdelta Rework](https://www.repr
     <img src="docs/assets/images/preview/Tampon%20v2.png" alt="Tampon">
   </a>
 </div>
+<div class="img-group">
+  <a href="docs/assets/images/preview/Stabilisateur%20v41.png" _target="blank">
+    <img src="docs/assets/images/preview/Stabilisateur%20v41.png" alt="Stabilisateur">
+  </a>
+  <a href="docs/assets/images/preview/Stabilisateur%20v41b.png" _target="blank">
+    <img src="docs/assets/images/preview/Stabilisateur%20v41b.png" alt="Stabilisateurb">
+  </a>
+</div>
 
-Available for download soon...
+## Wood parts
+
+<div class="img-group">
+  <a href="docs/assets/images/preview/Plaque%20de%20support%20v19.png" _target="blank">
+    <img src="docs/assets/images/preview/Plaque%20de%20support%20v19.png" alt="Plaque de support">
+  </a>
+</div>
+<div class="img-group">
+  <a href="docs/assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" _target="blank">
+    <img src="docs/assets/images/preview/Plaque%20de%20support%20pour%20cotations%20v20.png" alt="Plaque de support cotée">
+  </a>
+</div>
 
 ## Hardware
 
@@ -63,29 +84,59 @@ Available for download soon...
 | Threaded shaft M8x320 | <img src="docs/assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 2   |
 | Threaded shaft M8x125 | <img src="docs/assets/images/hardware/threaded_shaft.png"  alt="Threaded shaft"  width="150px"> | 1   |
 | Screw M6x25           | <img src="docs/assets/images/hardware/screw_6x25.jpg"      alt="Screw 6x25"      width="150px"> | 8   |
+| Screw hex head M8x50  | <img src="docs/assets/images/hardware/screw_hex_8x50.jpg"  alt="Screw hex 8x50"  width="150px"> | 1   |
 | Washer M8             | <img src="docs/assets/images/hardware/washer_8.webp"       alt="Washer 8"        width="100px"> | 69  |
 | Washer M6             | <img src="docs/assets/images/hardware/washer_6.jpg"        alt="Washer 6"        width="100px"> | 8   |
 | Washer spring M8      | <img src="docs/assets/images/hardware/washer_spring_8.png" alt="Washer spring 8" width="100px"> | 43  |
-| Nut M8                | <img src="docs/assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 70  |
+| Nut M8                | <img src="docs/assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 71  |
 | Nut M6                | <img src="docs/assets/images/hardware/nut_8.jpg"           alt="Nut 8"           width="100px"> | 8   |
+| Wing nut M8           | <img src="docs/assets/images/hardware/wing_nut_8.jpg"      alt="Wing nut 8"      width="100px"> | 1   |
 
 
 ## Design details
 
-[![final assembly 1](docs/assets/images/rendering/Assemblage%20final%20v117h.png)](docs/assets/images/rendering/Assemblage%20final%20v117h.png)
-[![final assembly 2](docs/assets/images/rendering/Assemblage%20final%20v125b.png)](docs/assets/images/rendering/Assemblage%20final%20v125b.png)
-[![final assembly 3](docs/assets/images/rendering/Assemblage%20final%20v124.png)](docs/assets/images/rendering/Assemblage%20final%20v124.png)
-[![detail 01](docs/assets/images/rendering/Assemblage%20final%20v125.png)](docs/assets/images/rendering/Assemblage%20final%20v125.png)
-[![detail 02](docs/assets/images/rendering/Assemblage%20final%20v104.png)](docs/assets/images/rendering/Assemblage%20final%20v104.png)
-[![detail 03](docs/assets/images/rendering/Assemblage%20final%20v117.png)](docs/assets/images/rendering/Assemblage%20final%20v117.png)
-[![detail 04](docs/assets/images/rendering/Assemblage%20final%20v117c.png)](docs/assets/images/rendering/Assemblage%20final%20v117c.png)
-[![detail 05](docs/assets/images/rendering/Assemblage%20final%20v117b.png)](docs/assets/images/rendering/Assemblage%20final%20v117b.png)
-[![detail 06](docs/assets/images/rendering/Assemblage%20final%20v79.png)](docs/assets/images/rendering/Assemblage%20final%20v79.png)
-[![detail 07](docs/assets/images/rendering/Assemblage%20final%20v117d.png)](docs/assets/images/rendering/Assemblage%20final%20v117d.png)
-[![detail 08](docs/assets/images/rendering/Assemblage%20final%20v117e.png)](docs/assets/images/rendering/Assemblage%20final%20v117e.png)
-[![detail 09](docs/assets/images/rendering/Assemblage%20final%20v117f.png)](docs/assets/images/rendering/Assemblage%20final%20v117f.png)
-[![detail 10](docs/assets/images/rendering/Assemblage%20final%20v117g.png)](docs/assets/images/rendering/Assemblage%20final%20v117g.png)
+[![final assembly](docs/assets/images/rendering/Assemblage%20final%20v117h.png)](docs/assets/images/rendering/Assemblage%20final%20v117h.png)
+[![final assembly](docs/assets/images/rendering/Assemblage%20final%20v125b.png)](docs/assets/images/rendering/Assemblage%20final%20v125b.png)
+[![final assembly](docs/assets/images/rendering/Assemblage%20final%20v124.png)](docs/assets/images/rendering/Assemblage%20final%20v124.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v125.png)](docs/assets/images/rendering/Assemblage%20final%20v125.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v104.png)](docs/assets/images/rendering/Assemblage%20final%20v104.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117.png)](docs/assets/images/rendering/Assemblage%20final%20v117.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117c.png)](docs/assets/images/rendering/Assemblage%20final%20v117c.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v133.png)](docs/assets/images/rendering/Assemblage%20final%20v133.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117b.png)](docs/assets/images/rendering/Assemblage%20final%20v117b.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v79.png)](docs/assets/images/rendering/Assemblage%20final%20v79.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117d.png)](docs/assets/images/rendering/Assemblage%20final%20v117d.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117e.png)](docs/assets/images/rendering/Assemblage%20final%20v117e.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117f.png)](docs/assets/images/rendering/Assemblage%20final%20v117f.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v117g.png)](docs/assets/images/rendering/Assemblage%20final%20v117g.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v133b.png)](docs/assets/images/rendering/Assemblage%20final%20v133b.png)
+[![final_assembly](docs/assets/images/rendering/Assemblage%20final%20v135.png)](docs/assets/images/rendering/Assemblage%20final%20v135.png)
 
-## Building irl (in progress...)
+## Accessories
 
-[![Building in progress...](docs/assets/images/photos/IMG_20210425_172705.jpg)](docs/assets/images/photos/IMG_20210425_172705.jpg)
+### Smartphone dock
+
+<div class="img-group">
+  <a href="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%202.png" _target="blank">
+    <img src="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%202.png" alt="Support pour smartphone - mord 2">
+  </a>
+  <a href="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%201.png" _target="blank">
+    <img src="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20mord%201.png" alt="Support pour smartphone - mord 1">
+  </a>
+  <a href="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20sabot.png" _target="blank">
+    <img src="docs/assets/images/preview/Support%20pour%20smartphone%20v20%20-%20sabot.png" alt="Support pour smartphone - sabot">
+  </a>
+</div>
+
+| Part        |                                                                                    | Qty |
+|:------------|:----------------------------------------------------------------------------------:|:---:|
+| Screw M3x10 | <img src="docs/assets/images/hardware/screw_3x10.png"  alt="Screw 3x10"  width="150px"> | 4   |
+| Spring 6x20 | <img src="docs/assets/images/hardware/spring_6x20.png" alt="Spring 6x20" width="150px"> | 2   |
+
+## Building irl
+
+[![Building irl](docs/assets/images/photos/IMG_20210828_160653.jpg)](docs/assets/images/photos/IMG_20210828_160653.jpg)
+[![Building irl](docs/assets/images/photos/IMG_20210825_162620.jpg)](docs/assets/images/photos/IMG_20210825_162620.jpg)
+[![Building irl](docs/assets/images/photos/IMG_20210828_162214.jpg)](docs/assets/images/photos/IMG_20210828_162214.jpg)
+[![Building irl](docs/assets/images/photos/IMG_20210828_161848.jpg)](docs/assets/images/photos/IMG_20210828_161848.jpg)
+[![Building irl](docs/assets/images/photos/IMG_20210828_161903.jpg)](docs/assets/images/photos/IMG_20210828_161903.jpg)

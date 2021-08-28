@@ -1,0 +1,20 @@
+name: update-readme
+on:
+  push:
+    branches:
+      - main
+jobs:
+  copy-readme-from-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Copy from docs
+        run: cp docs/index.md README.md
+      - name: Adjust content
+        run: sed -i 's/assets\//docs\/assets\//g' README.md
+      - name: Commit results
+        run: |
+          git config --global user.name "Github update-readme action"
+          git config --global user.email "nobody@nomail.net"
+          git commit README.md -m 'Re-build README.md' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
