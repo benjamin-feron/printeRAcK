@@ -1,5 +1,8 @@
 name: update-readme
-on: [push]
+on:
+  push:
+    branches:
+      - main
 jobs:
   copy-readme-from-docs:
     runs-on: ubuntu-latest
