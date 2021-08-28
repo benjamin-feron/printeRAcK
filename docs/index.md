@@ -132,4 +132,4 @@ Available for download soon...
 
 ## Building irl
 
-[![Building in progress...](assets/images/photos/IMG_20210425_172705.jpg)](assets/images/photos/IMG_20210425_172705.jpg)
+[![Building in progress...](assets/images/photos/IMG_20210828_160653.jpg)](assets/images/photos/IMG_20210828_160653.jpg)
