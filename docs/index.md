@@ -95,19 +95,22 @@ Available for download soon...
 
 ## Design details
 
-[![final assembly 1](assets/images/rendering/Assemblage%20final%20v117h.png)](assets/images/rendering/Assemblage%20final%20v117h.png)
-[![final assembly 2](assets/images/rendering/Assemblage%20final%20v125b.png)](assets/images/rendering/Assemblage%20final%20v125b.png)
-[![final assembly 3](assets/images/rendering/Assemblage%20final%20v124.png)](assets/images/rendering/Assemblage%20final%20v124.png)
-[![detail 01](assets/images/rendering/Assemblage%20final%20v125.png)](assets/images/rendering/Assemblage%20final%20v125.png)
-[![detail 02](assets/images/rendering/Assemblage%20final%20v104.png)](assets/images/rendering/Assemblage%20final%20v104.png)
-[![detail 03](assets/images/rendering/Assemblage%20final%20v117.png)](assets/images/rendering/Assemblage%20final%20v117.png)
-[![detail 04](assets/images/rendering/Assemblage%20final%20v117c.png)](assets/images/rendering/Assemblage%20final%20v117c.png)
-[![detail 05](assets/images/rendering/Assemblage%20final%20v117b.png)](assets/images/rendering/Assemblage%20final%20v117b.png)
-[![detail 06](assets/images/rendering/Assemblage%20final%20v79.png)](assets/images/rendering/Assemblage%20final%20v79.png)
-[![detail 07](assets/images/rendering/Assemblage%20final%20v117d.png)](assets/images/rendering/Assemblage%20final%20v117d.png)
-[![detail 08](assets/images/rendering/Assemblage%20final%20v117e.png)](assets/images/rendering/Assemblage%20final%20v117e.png)
-[![detail 09](assets/images/rendering/Assemblage%20final%20v117f.png)](assets/images/rendering/Assemblage%20final%20v117f.png)
-[![detail 10](assets/images/rendering/Assemblage%20final%20v117g.png)](assets/images/rendering/Assemblage%20final%20v117g.png)
+[![final assembly](assets/images/rendering/Assemblage%20final%20v117h.png)](assets/images/rendering/Assemblage%20final%20v117h.png)
+[![final assembly](assets/images/rendering/Assemblage%20final%20v125b.png)](assets/images/rendering/Assemblage%20final%20v125b.png)
+[![final assembly](assets/images/rendering/Assemblage%20final%20v124.png)](assets/images/rendering/Assemblage%20final%20v124.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v125.png)](assets/images/rendering/Assemblage%20final%20v125.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v104.png)](assets/images/rendering/Assemblage%20final%20v104.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117.png)](assets/images/rendering/Assemblage%20final%20v117.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117c.png)](assets/images/rendering/Assemblage%20final%20v117c.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v133.png)](assets/images/rendering/Assemblage%20final%20v133.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117b.png)](assets/images/rendering/Assemblage%20final%20v117b.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v79.png)](assets/images/rendering/Assemblage%20final%20v79.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117d.png)](assets/images/rendering/Assemblage%20final%20v117d.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117e.png)](assets/images/rendering/Assemblage%20final%20v117e.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117f.png)](assets/images/rendering/Assemblage%20final%20v117f.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v117g.png)](assets/images/rendering/Assemblage%20final%20v117g.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v133b.png)](assets/images/rendering/Assemblage%20final%20v133b.png)
+[![final_assembly](assets/images/rendering/Assemblage%20final%20v135.png)](assets/images/rendering/Assemblage%20final%20v135.png)
 
 ## Accessories
 
