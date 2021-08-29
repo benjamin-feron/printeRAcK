@@ -8,15 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: papeloto/action-zip@v1
+      - uses: montudor/action-zip@v1
         with:
-          files: "3d parts/"
-          recursive: false
-          dest: "3d parts.zip"
-      - name: Commit results
-        run: |
-          git config --global user.name "Github zip-3d-parts action"
-          git config --global user.email "nobody@nomail.net"
-          git add '3d parts.zip'
-          git commit '3d parts.zip' -m 'Re-build "3d parts.zip"' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+          args: zip -qq -r '3d parts.zip' '3d parts'
+      - uses: actions/upload-artifact@v2
+        with:
+          name: '3d parts.zip'
