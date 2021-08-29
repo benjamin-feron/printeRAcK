@@ -4,7 +4,7 @@ Project page of a rack built with 3d printed parts.
 
 This mount was originally designed to set a [Microdelta Rework](https://www.reprap-france.com/produit/1234568619-imprimante-3d-microdelta-rework) ([3d model](https://sketchfab.com/3d-models/micro-delta-rework-by-emotion-tech-91a2beeb78f4422ebaeff0f6781fef17)) on a pole.
 
-[>> View project on Thingiverse <<](https://www.thingiverse.com/thing:4943958)
+[>> View project on Thingiverse <<](https://www.thingiverse.com/thing:4943958){:target="_blank"}
 
 ## Objective
 
