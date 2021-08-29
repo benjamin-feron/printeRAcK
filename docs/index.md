@@ -4,15 +4,17 @@ Project page of a rack built with 3d printed parts.
 
 This mount was originally designed to set a [Microdelta Rework](https://www.reprap-france.com/produit/1234568619-imprimante-3d-microdelta-rework) ([3d model](https://sketchfab.com/3d-models/micro-delta-rework-by-emotion-tech-91a2beeb78f4422ebaeff0f6781fef17)) on a pole.
 
-[>> View project on Thingiverse <<](https://www.thingiverse.com/thing:4943958){:target="_blank"}
+[Download 3d parts](https://github.com/benjamin-feron/printeRAcK/raw/main/3d_parts.zip)
+
+<span style="display:inline-block;width:100%;text-align:right">
+  [>> View project on Thingiverse <<](https://www.thingiverse.com/thing:4943958){:target="_blank"}
+</span>
 
 ## Objective
 
 [![final assembly](assets/images/rendering/Assemblage%20final%20v125b.png)](assets/images/rendering/Assemblage%20final%20v125b.png)
 
 ## 3d printed parts
-
-Available for download soon...
 
 <div class="img-group">
   <a href="assets/images/preview/Jointure%20de%20tiges%20A%20v16.png" _target="blank">
