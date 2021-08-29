@@ -12,3 +12,9 @@ jobs:
         with:
           files: '3d parts/'
           dest: '3d parts.zip'
+      - name: Commit results
+        run: |
+          git config --global user.name "Github update-readme action"
+          git config --global user.email "nobody@nomail.net"
+          git commit '3d parts.zip' -m 'Re-build "3d parts.zip"' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
