@@ -1,0 +1,16 @@
+name: zip-3d-parts
+on:
+  push:
+    branches:
+      - main
+jobs:
+  zip:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: montudor/action-zip@v1
+        with:
+          args: zip -qq -r '3d parts.zip' '3d parts'
+      - uses: actions/upload-artifact@v2
+        with:
+          name: '3d parts.zip'
