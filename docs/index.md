@@ -71,8 +71,8 @@ Available for download soon...
   </a>
 </div>
 <div class="img-group">
-  <a href="assets/images/preview/Board%20v26.png" _target="blank">
-    <img src="assets/images/preview/Board%20v26.png" alt="Board with dimensions">
+  <a href="assets/images/preview/Board%20v28.png" _target="blank">
+    <img src="assets/images/preview/Board%20v28.png" alt="Board with dimensions">
   </a>
 </div>
 
